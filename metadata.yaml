@@ -1,0 +1,27 @@
+_repo: The-Social-Direction-of-Evolution--An-Outline-of-the-Science-of-Eugenics_31705
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kellicott, William E. (William Erskine)
+    alias: Kellicott, William Erskine
+    birthdate: 1878
+    deathdate: 1919
+    gutenberg_agent_id: '35420'
+    url: http://www.gutenberg.org/2009/agents/35420
+description: ''
+gutenberg_issued: '2010-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eugenics'
+- !lcc 'HQ'
+title: 'The Social Direction of Evolution: An Outline of the Science of Eugenics'
+url: http://www.gutenberg.org/ebooks/31705
