@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35420'
     url: http://www.gutenberg.org/2009/agents/35420
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31705#The-Social-Direction-of-Evolution--An-Outline-of-the-Science-of-Eugenics
 gutenberg_issued: '2010-03-20'
 gutenberg_type: Text
 identifiers:
